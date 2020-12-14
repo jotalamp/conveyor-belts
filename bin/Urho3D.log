@@ -1,0 +1,12 @@
+[Mon Dec 14 18:43:44 2020] INFO: Opened log file Urho3D.log
+[Mon Dec 14 18:43:44 2020] INFO: Created 1 worker thread
+[Mon Dec 14 18:43:44 2020] INFO: Added resource path /home/lampinen/Ohjelmointi/Urho3D/Projektit/ConveyorBelts01_release/bin/Data/
+[Mon Dec 14 18:43:44 2020] INFO: Added resource path /home/lampinen/Ohjelmointi/Urho3D/Projektit/ConveyorBelts01_release/bin/CoreData/
+[Mon Dec 14 18:43:44 2020] INFO: Set screen mode 1280x960 windowed monitor 0
+[Mon Dec 14 18:43:44 2020] INFO: Initialized input
+[Mon Dec 14 18:43:44 2020] INFO: Initialized user interface
+[Mon Dec 14 18:43:44 2020] INFO: Initialized renderer
+[Mon Dec 14 18:43:44 2020] INFO: Set audio mode 44100 Hz stereo interpolated
+[Mon Dec 14 18:43:44 2020] INFO: Initialized engine
+[Mon Dec 14 18:43:44 2020] INFO: Loading scene from Scenes/ConveyorBelts/ConveyorBelts20.xml
+[Mon Dec 14 18:43:44 2020] INFO: [Scene created]
